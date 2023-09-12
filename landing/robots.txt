@@ -1,0 +1,9 @@
+HOST: http://polya-pow-landing.zzz.com.ua/
+
+User-agent: Googlebot
+Disallow: /assets/
+Sitemap: http://polya-pow-landing.zzz.com.ua
+
+User-agent: *
+Disallow: /assets/
+Sitemap: http://polya-pow-landing.zzz.com.ua
